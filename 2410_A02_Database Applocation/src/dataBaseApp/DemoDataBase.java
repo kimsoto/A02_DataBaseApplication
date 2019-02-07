@@ -12,7 +12,7 @@ import dataBaseApp.SqlStatement;
 
 /**
 * Main class to test and print tables
-* Author: kim Soto & Jingwen Zhang 
+* Author: Kim Soto & Jingwen Zhang 
 *
 */
 public class DemoDataBase {
