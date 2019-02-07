@@ -10,6 +10,11 @@ import java.sql.Statement;
 import dataBaseApp.SqlQuery;
 import dataBaseApp.SqlStatement;
 
+/**
+* Main class to test and print tables
+* Author: kim Soto & Jingwen Zhang 
+*
+*/
 public class DemoDataBase {
 	public static void main(String[] args) {
 		try (Connection connection = DriverManager.getConnection("jdbc:derby:myDatabase;create=true");
